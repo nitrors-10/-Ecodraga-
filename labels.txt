@@ -1,0 +1,4 @@
+0 Plastico_poco
+1 Plastico_mucho
+2 Paper_poco
+3 Paper_mucho
